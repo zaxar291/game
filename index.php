@@ -1,5 +1,5 @@
 <?php
-//ertertertertretrt6y56ww243
+//ertertertertretrt6y56ww243tyhjuytjytjty
 $min = 1;
 $max = 8;
 $text = ""; // Текст подсказки
